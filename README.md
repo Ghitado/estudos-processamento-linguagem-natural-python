@@ -2,13 +2,11 @@
 
 Este repositório tem como objetivo registrar os estudos e projetos desenvolvidos ao longo da disciplina de **Processamento de Linguagem Natural (PLN)**. O material reflete a trajetória de aprendizado realizada durante o semestre.
 
----
 
 ## 🎯 Objetivo Geral
 
 Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento de dados textuais, desde o **pré-processamento**, passando por **análises linguísticas**, até a **geração de linguagem natural**, sempre com foco prático na aplicação desses conhecimentos no desenvolvimento de modelos de inteligência artificial.
 
----
 
 ## 📘 Estrutura do Conteúdo
 
@@ -32,7 +30,6 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
 - **Aula 07 — Descoberta de Conhecimento em Texto**  
   Análise de frequência, identificação de entidades relevantes e extração de padrões informativos em textos.
 
----
 
 ## 💡 Projetos Desenvolvidos
 
@@ -45,8 +42,7 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
 - **Projeto 03 — Análise de relevância de termos**  
   Aplicação da técnica **TF-IDF** para extração de termos com maior relevância semântica em obras literárias.
 
----
 
-## 🔗 Linkedin 
+## 🔗 LinkedIn 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodemelomota)  
