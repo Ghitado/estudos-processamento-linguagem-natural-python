@@ -45,4 +45,6 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
 
 ## 🔗 Post no LinkedIn 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/thiagodemelomota_github-ghitadoestudos-processamento-linguagem-natural-python-activity-7316629952517353472-HU7o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE0Sr0B6X2jCX06FWsaHwZMftiFASfsuD8)  
+<a href="https://www.linkedin.com/posts/thiagodemelomota_github-ghitadoestudos-processamento-linguagem-natural-python-activity-7316629952517353472-HU7o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE0Sr0B6X2jCX06FWsaHwZMftiFASfsuD8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
