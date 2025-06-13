@@ -30,6 +30,8 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
 - **Aula 07 — Descoberta de Conhecimento em Texto**  
   Análise de frequência, identificação de entidades relevantes e extração de padrões informativos em textos.
 
+### Módulo 2 — Técnicas de Análise de Sentimentos e Modelagem
+
 - **Aula 10 — Análise de Sentimentos e Classificação de Texto**
   Introdução aos conceitos de análise de sentimentos e técnicas de classificação binária (positivo/negativo). Preparação dos dados, criação de bases rotuladas e aplicação de pré-processamento textual específico para sentimentos.
 
