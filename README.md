@@ -30,6 +30,14 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
 - **Aula 07 — Descoberta de Conhecimento em Texto**  
   Análise de frequência, identificação de entidades relevantes e extração de padrões informativos em textos.
 
+- **Aula 10 — Análise de Sentimentos e Classificação de Texto**
+  Introdução aos conceitos de análise de sentimentos e técnicas de classificação binária (positivo/negativo). Preparação dos dados, criação de bases rotuladas e aplicação de pré-processamento textual específico para sentimentos.
+
+- **Aula 11 — Pipeline de Classificação de Texto**
+  Construção de um pipeline completo para classificação de sentimentos, incluindo limpeza, vetorização com TF-IDF, treinamento e avaliação de modelos tradicionais de machine learning como Naive Bayes, Regressão Logística e SVM. Ajuste de hiperparâmetros e comparação dos resultados.
+
+- **Aula 13 — Redes Neurais para PLN**
+  Estudo de redes neurais aplicadas a tarefas de processamento de linguagem natural. Construção e treinamento de modelos LSTM para análise de sentimentos, incluindo camadas de embedding, regularização e avaliação com métricas de desempenho. Teste do modelo com dados reais e interpretação dos resultados.
 
 ## 💡 Projetos Desenvolvidos
 
