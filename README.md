@@ -53,8 +53,16 @@ Durante a disciplina, foram abordadas técnicas fundamentais para o tratamento d
   Aplicação da técnica **TF-IDF** para extração de termos com maior relevância semântica em obras literárias.
 
 
-## 🔗 Post no LinkedIn 
+## 🔗 Posts no LinkedIn 
+
+### Módulo 1
 
 <a href="https://www.linkedin.com/posts/thiagodemelomota_github-ghitadoestudos-processamento-linguagem-natural-python-activity-7316629952517353472-HU7o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE0Sr0B6X2jCX06FWsaHwZMftiFASfsuD8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+### Módulo 2
+
+<a href="https://www.linkedin.com/posts/thiagodemelomota_github-ghitadoestudos-processamento-linguagem-natural-python-activity-7339441261608689664-xMOk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEE0Sr0B6X2jCX06FWsaHwZMftiFASfsuD8" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
